@@ -15,7 +15,8 @@ class App extends Component {
           <ReactPlayer url='http://lyc-img.oss-cn-hangzhou.aliyuncs.com/71466441.mp4'
             width='100%'
             height='100%'
-            playing="false"
+            playing="true"
+            controls="true"
             playbackRate="1.0"
             volume="0.8"
           />
